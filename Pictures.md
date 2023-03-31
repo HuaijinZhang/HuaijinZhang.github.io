@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 permalink: /tags/
-title: Tags
+title: Pictures of Daily Life
 type: tags
 ---

@@ -4,4 +4,4 @@ permalink: /tags/
 title: Pictures of Daily Life
 type: tags
 ---
-![本地路径](myself.png "相对路径演示")
+![CSDN图标](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1 "CSDN图标")

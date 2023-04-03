@@ -4,4 +4,4 @@ permalink: /tags/
 title: Pictures of Daily Life
 type: tags
 ---
-![CSDN图标](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1 "CSDN图标")
+![图片](https://github.com/HuaijinZhang/HuaijinZhang.github.io/blob/master/myself.png)

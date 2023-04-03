@@ -12,4 +12,4 @@ Master :Information and Communication Engineering, Huazhong University of Scienc
 
 Bachelor :Electronic and Information Engineering, Huazhong University of Science and Technology, China  2015.9-2019.6
 
-<img src="myself.png"/>
+<img src="C:\Users\Guanghua Liu\Pictures\logo.png"/>

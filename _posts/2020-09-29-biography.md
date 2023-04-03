@@ -12,4 +12,4 @@ Master :Information and Communication Engineering, Huazhong University of Scienc
 
 Bachelor :Electronic and Information Engineering, Huazhong University of Science and Technology, China  2015.9-2019.6
 
-![图片](https://github.com/HuaijinZhang/HuaijinZhang.github.io/blob/master/myself.png)
+![picture](https://github.com/HuaijinZhang/HuaijinZhang.github.io/blob/master/myself.png)
